@@ -1,0 +1,7 @@
+regulations
+regulations/
+regulations/en
+regulations/fr
+regulations/en/*.*
+regulations/fr/*.*
+testing.ipynb
